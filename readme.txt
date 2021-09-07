@@ -18,5 +18,5 @@ This repository contains 4 files
 ## Bonus:
  I have imported an extra package of python for better representation of tables
  in the program
- pacakge name:plotly.graph_objects
+ pacakge name:plotly
  file inclued:Purchase Product.ipynb
