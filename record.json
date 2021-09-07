@@ -1,0 +1,212 @@
+{
+    "1": {
+        "name": "Dairy Milk Silk",
+        "category": "Chocolate",
+        "quantity": 9,
+        "price per piece": 20,
+        "manufacturer": "Cadbury"
+    },
+    "2": {
+        "name": "Hp Laptop",
+        "category": "Laptop",
+        "quantity": 3,
+        "price per piece": 20000,
+        "manufacturer": "Hp"
+    },
+    "3": {
+        "name": "LG Laptop",
+        "category": "Laptop",
+        "quantity": 12,
+        "price per piece": 25000,
+        "manufacturer": "LG"
+    },
+    "4": {
+        "name": "Light skybag School bag",
+        "category": "Bags",
+        "quantity": 22,
+        "price per piece": 700,
+        "manufacturer": "Skybag"
+    },
+    "5": {
+        "name": "Whirlpool Fridge",
+        "category": "Fridge",
+        "quantity": 11,
+        "price per piece": 35000,
+        "manufacturer": "Whirlpool"
+    },
+    "6": {
+        "name": "Kent Purifier",
+        "category": "Purifier",
+        "quantity": 19,
+        "price per piece": 5000,
+        "manufacturer": "Kent"
+    },
+    "7": {
+        "name": "Microtek Inverter",
+        "category": "Inverter",
+        "quantity": 22,
+        "price per piece": 4500,
+        "manufacturer": "Microtek"
+    },
+    "8": {
+        "name": "Mi Ultrabook",
+        "category": "Laptop",
+        "quantity": 32,
+        "price per piece": 59000,
+        "manufacturer": "Mi"
+    },
+    "9": {
+        "name": "Lenovo Thinkpad",
+        "category": "Laptop",
+        "quantity": 35,
+        "price per piece": 45000,
+        "manufacturer": "Lenovo"
+    },
+    "10": {
+        "name": "Redmi 3s prime",
+        "category": "Phone",
+        "quantity": 20,
+        "price per piece": 9000,
+        "manufacturer": "Redmi"
+    },
+    "11": {
+        "name": "Realme 11c",
+        "category": "Phone",
+        "quantity": 27,
+        "price per piece": 9050,
+        "manufacturer": "Realme"
+    },
+    "12": {
+        "name": "Realme narzo 20",
+        "category": "Phone",
+        "quantity": 15,
+        "price per piece": 8050,
+        "manufacturer": "Realme"
+    },
+    "13": {
+        "name": "Toshibha Mixer",
+        "category": "Mixer",
+        "quantity": 12,
+        "price per piece": 3500,
+        "manufacturer": "Toshibha"
+    },
+    "14": {
+        "name": "Samsung Charger",
+        "category": "Charger",
+        "quantity": 34,
+        "price per piece": 800,
+        "manufacturer": "Samsung"
+    },
+    "15": {
+        "name": "Redmi Charger",
+        "category": "Charger",
+        "quantity": 21,
+        "price per piece": 900,
+        "manufacturer": "Redmi"
+    },
+    "16": {
+        "name": "Realme Charger",
+        "category": "Charger",
+        "quantity": 19,
+        "price per piece": 1000,
+        "manufacturer": "Realme"
+    },
+    "17": {
+        "name": "Addidas sports shoes",
+        "category": "Shoes",
+        "quantity": 45,
+        "price per piece": 1200,
+        "manufacturer": "Addidas"
+    },
+    "18": {
+        "name": "Bata sports shoes",
+        "category": "Shoes",
+        "quantity": 21,
+        "price per piece": 1100,
+        "manufacturer": "Bata"
+    },
+    "19": {
+        "name": "Nike Futsal shoes",
+        "category": "Futsal Shoes",
+        "quantity": 19,
+        "price per piece": 1399,
+        "manufacturer": "Nike"
+    },
+    "20": {
+        "name": "Kripsta Futsal shoes",
+        "category": "Futsal Shoes",
+        "quantity": 19,
+        "price per piece": 1280,
+        "manufacturer": "Kripsta"
+    },
+    "21": {
+        "name": "Himalaya Facewash",
+        "category": "Facewash",
+        "quantity": 67,
+        "price per piece": 150,
+        "manufacturer": "Himalaya"
+    },
+    "22": {
+        "name": "Clear & Clear Facewash",
+        "category": "Facewash",
+        "quantity": 51,
+        "price per piece": 175,
+        "manufacturer": "Clean & Clear"
+    },
+    "23": {
+        "name": "Asus pro Laptop",
+        "category": "Laptop",
+        "quantity": 51,
+        "price per piece": 45000,
+        "manufacturer": "Asus"
+    },
+    "24": {
+        "name": "Apple Mac Book Air",
+        "category": "Laptop",
+        "quantity": 32,
+        "price per piece": 83000,
+        "manufacturer": "Apple"
+    },
+    "25": {
+        "name": "Apple Mac Book Pro",
+        "category": "Laptop",
+        "quantity": 18,
+        "price per piece": 115000,
+        "manufacturer": "Apple"
+    },
+    "26": {
+        "name": "Fastrack 122d Watch",
+        "category": "Watch",
+        "quantity": 33,
+        "price per piece": 950,
+        "manufacturer": "Fastrack"
+    },
+    "27": {
+        "name": "Titan 11a Watch",
+        "category": "Watch",
+        "quantity": 15,
+        "price per piece": 2020,
+        "manufacturer": "Titan"
+    },
+    "28": {
+        "name": "Whirlpool Washing Machine",
+        "category": "Washing Machine",
+        "quantity": 12,
+        "price per piece": 15040,
+        "manufacturer": "Whirlpool"
+    },
+    "29": {
+        "name": "Voltas Ac",
+        "category": "Ac",
+        "quantity": 38,
+        "price per piece": 5000,
+        "manufacturer": "Voltas"
+    },
+    "30": {
+        "name": "LG Monitor",
+        "category": "Monitor",
+        "quantity": 23,
+        "price per piece": 4500,
+        "manufacturer": "LG"
+    }
+}

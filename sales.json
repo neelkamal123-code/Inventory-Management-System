@@ -1,0 +1,16 @@
+{
+    "4": {
+        "name": "Light skybag School bag",
+        "category": "Bags",
+        "quantity purchased": 5,
+        "manufacturer": "Skybag",
+        "total amount": 3500
+    },
+    "7": {
+        "name": "Microtek Inverter",
+        "category": "Inverter",
+        "quantity purchased": 1,
+        "manufacturer": "Microtek",
+        "total amount": 4500
+    }
+}
