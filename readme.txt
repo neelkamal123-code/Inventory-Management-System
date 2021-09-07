@@ -6,7 +6,7 @@ This repository contains 4 files
 1. *Add New Product.ipynb :* It adds new product to the record and if the product is already present then increases its quantity 
 2. *Purchase Product.ipynb :* Helps the user to purchase the product and creates Sales.json file to store  all purchased product data
 4. *Record.json :* It has record of all the products their price quantity etc. Currently it is has record of 30 products
-6. *Sales.json :* It has data of all the purchased product. Currently it has data of 10 purchased products
+6. *Sales.json :* It has data of all the purchased product. Currently it has data of few purchased products
 
 ## Social Media and other useful links
  Linkedin : https://www.linkedin.com/in/neel-kamal-08a089204/
